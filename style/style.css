@@ -1,0 +1,9 @@
+
+
+.text-footer {
+    color: rgba(255,255,255,.5);
+}
+
+.text-footer:hover {
+    color: rgba(255,255,255,.75);
+}
